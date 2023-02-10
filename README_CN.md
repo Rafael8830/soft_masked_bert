@@ -262,14 +262,6 @@ bash scripts/run_infer_310.sh [MINDIR_PATH] [DATA_FILE_PATH] [NEED_PREPROCESS] [
 | Accuracy            | 94.02%                      |
 | Model for inference | 43M (.air file)             |
 
-# 贡献指南
-
-如果你想参与贡献昇思的工作当中，请阅读[昇思贡献指南](https://gitee.com/mindspore/models/blob/master/CONTRIBUTING_CN.md)和[how_to_contribute](https://gitee.com/mindspore/models/tree/master/how_to_contribute)
-
-## 贡献者
-
-* [c34](https://gitee.com/c_34) (Huawei)
-
 # ModelZoo 主页
 
 请浏览官方[主页](https://gitee.com/mindspore/models)。
