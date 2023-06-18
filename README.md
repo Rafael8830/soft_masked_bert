@@ -279,10 +279,6 @@ e.g. you can reference the following template
 
 If you want to contribute, please review the [contribution guidelines](https://gitee.com/mindspore/models/blob/master/CONTRIBUTING.md) and [how_to_contribute](https://gitee.com/mindspore/models/tree/master/how_to_contribute)
 
-### Contributors
-
-* [c34](https://gitee.com/c_34) (Huawei)
-
 ## ModeZoo Homepage
 
 Please check the official [homepage](https://gitee.com/mindspore/models).
